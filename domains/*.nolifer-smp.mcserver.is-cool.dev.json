@@ -1,0 +1,12 @@
+{
+  "description": "Wildcard subd-domains for my small minecraft server and file hosting to allow automated scripts for downloading / updating the modpack",
+  "domain": "is-cool.dev",
+  "subdomain": "*.nolifer-smp.mcserver",
+  "owner": {
+    "repo": "https://github.com/60Trees",
+    "email": "zachariah.worrall@gmail.com"
+  },
+  "record": {
+    "A": ["115.64.117.180"]
+  }
+}
